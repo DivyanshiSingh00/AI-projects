@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 2. **Open VS Code**
    ```bash
-   jupyter notebook
+   code .
    ```
 3. Open the game you want to run.
 
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 If you'd like to contribute or suggest improvements, feel free to create a pull request or open an issue.
 
 ## 📧 Contact
-For any questions or feedback, reach out at: **divyanshisingh@example.com** *(replace with your actual email)*
+For any questions or feedback, reach out at: **divyanshisingh2885@gmail.com**
 
 ## 📜 License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.

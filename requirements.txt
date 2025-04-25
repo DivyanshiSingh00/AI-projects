@@ -1,0 +1,14 @@
+opencv-python
+mediapipe
+pyautogui
+comtypes
+pycaw
+protobuf
+screen-brightness-control
+pyttsx3
+SpeechRecognition
+pynput
+wikipedia
+pygame
+PyQt5
+numpy
